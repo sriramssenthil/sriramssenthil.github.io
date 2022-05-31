@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 30%;
+}
+
+        
+.title{
+    padding-top: 20px;
+    background-color: #ECE5C7;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+
+}
+
+.about_me{
+    margin-top: 0px;
+    margin-bottom: px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 40%;
+}
+
+.contact{
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+.links{
+    margin-top: 50px;
+
+}
+
+.footer{
+    background-color: #ECE5C7;
+    padding: 20px;
+}
