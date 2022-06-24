@@ -1,10 +1,11 @@
 body{
     margin: 0px;
-    text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1{
+    text-align: center;
+
     margin-top: 0px;
     margin-bottom: 0px;
     margin-right: auto;
@@ -12,33 +13,66 @@ h1{
     width: 30%;
 }
 
+.name{
+    padding-bottom: 50px;
+}
+
         
 .title{
-    padding-top: 20px;
+    text-align: center;
+
+    padding-top: 50px;
     background-color: #ECE5C7;
     margin-bottom: 0px;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
 
 }
 
+.image{
+    padding-bottom: 20px;
+}
+
 .about_me{
+    background-color: blanchedalmond;
     margin-top: 0px;
-    margin-bottom: px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.about_text{
     margin-right: auto;
     margin-left: auto;
     width: 40%;
+ 
 }
 
 .contact{
     margin-top: 50px;
-    padding-bottom: 50px;
+    background-color: #ECE5C7;
+    padding: 50px;
+}
+.contact_text{
+    margin-right: auto;
+    margin-left: auto;
+    width: 40%;
 }
 .links{
     margin-top: 50px;
 
 }
 
+.links_text{
+    margin-right: auto;
+    margin-left: auto;
+    width: 40%;
+    text-align: right;
+}
+
 .footer{
-    background-color: #ECE5C7;
-    padding: 20px;
+    background-color:darkgreen;
+    color: blanchedalmond;
+    text-align:center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+
 }
